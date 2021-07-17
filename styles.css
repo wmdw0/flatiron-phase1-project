@@ -1,0 +1,35 @@
+body {
+    background-color: white;
+}
+
+h1.one {
+    text-align: center;
+    background-color: cornflowerblue;
+    color: white;
+    padding: 10px;
+}
+#quote{
+    text-align: center;
+}
+.refresh {
+    text-align: center;
+    display: flex;
+    float: right;
+    background-color: cornflowerblue;
+    color: white;
+    border: 1px solid cornflowerblue;
+}
+button.hide{
+    background-color: cornflowerblue;
+    color: white;
+    border: 1px solid cornflowerblue;
+}
+.list-group{
+    text-align: left;
+    background-color: white;
+    color: cornflowerblue;
+    padding: 20px;
+    border: 1px solid cornflowerblue;
+    width: 75%;
+    margin: 5px 0px 0px 150px;
+}
